@@ -7,3 +7,9 @@ copyright = 'Copyright 2024-{year} J Kersey Enterprises, LLC. All rights reserve
 since = '2024'
 [author]
 name = 'Jordon Kersey'
+
+
+[[deployment.targets]]
+name = "s3"
+URL = "s3://blog.jkersey.com?region=us-east-2"
+cloudFrontDistributionID = "<cloudFrontDistributionID>"
