@@ -10,7 +10,7 @@ since = '2024'
 [author]
 name = 'Jordon Kersey'
 
-
+[deployment]
 [[deployment.targets]]
 name = "s3"
 URL = "s3://attitudeforthecloud.com?region=us-east-2"
