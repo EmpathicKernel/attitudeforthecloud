@@ -1,0 +1,9 @@
+baseURL = 'http://blog.jkersey.com/'
+languageCode = 'en-us'
+title = 'Attitude for the Cloud'
+theme = 'beautifulhugo'
+copyright = 'Copyright 2024-{year} J Kersey Enterprises, LLC. All rights reserved.'
+[params]
+since = '2024'
+[author]
+name = 'Jordon Kersey'

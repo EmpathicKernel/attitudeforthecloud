@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Attitude for the Cloud</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Attitude for the Cloud</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2024-{year} J Kersey Enterprises, LLC. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adjusting your Attitude</title>
+      <link>http://localhost:1313/posts/cloud-general/2024-04-23-attitude-for-the-cloud/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cloud-general/2024-04-23-attitude-for-the-cloud/</guid>
+      <description>Adjusting your Attitude blah blah&#xA;Navigation Being an advocate Understanding Climbing to a high altitude </description>
+    </item>
+  </channel>
+</rss>
