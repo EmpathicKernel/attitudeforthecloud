@@ -10,10 +10,17 @@
     <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://attitudeforthecloud.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Adjusting your Attitude</title>
-      <link>http://attitudeforthecloud.com/posts/cloud-general/2024-04-23-adjusting-your-attitude/</link>
+      <title>Adjust your Attitude</title>
+      <link>http://attitudeforthecloud.com/posts/cloud-general/2024-04-23-adjust-your-attitude/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://attitudeforthecloud.com/posts/cloud-general/2024-04-23-adjusting-your-attitude/</guid>
+      <guid>http://attitudeforthecloud.com/posts/cloud-general/2024-04-23-adjust-your-attitude/</guid>
+      <description>Welcome to Attitude For The Cloud!&#xA;What is this blog? This is a blog dedicated to helping Engineers working in the Cloud to become better and utilize the Cloud better rather you are a DevOps Engineer, Software Engineer, Platform Engineer, or {Enter Buzzword Here} Engineer.&#xA;Why the name? “It is your attitude, more than your aptitude, that will determine your altitude.” - Zig Ziglar&#xA;In aviation, your attitude is the pitch of your plane.</description>
+    </item>
+    <item>
+      <title>Adjusting your Attitude</title>
+      <link>http://attitudeforthecloud.com/posts/cloud-general/2024-04-23-adjusting-your-attitude-copy/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://attitudeforthecloud.com/posts/cloud-general/2024-04-23-adjusting-your-attitude-copy/</guid>
       <description>Welcome to Attitude For The Cloud!&#xA;What is this blog? This is a blog dedicated to helping Engineers working in the Cloud to become better and utilize the Cloud better rather you are a DevOps Engineer, Software Engineer, Platform Engineer, or {Enter Buzzword Here} Engineer.&#xA;Why the name? “It is your attitude, more than your aptitude, that will determine your altitude.” - Zig Ziglar&#xA;In aviation, your attitude is the pitch of your plane.</description>
     </item>
   </channel>

@@ -1,5 +1,5 @@
 ---
-title: 'Adjusting your Attitude'
+title: 'Adjust your Attitude'
 date: 2024-04-23
 ---
 
